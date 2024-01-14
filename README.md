@@ -15,7 +15,7 @@ This project automates our functional automation.
 
 Provide an overview of the project structure, explaining the organization of packages, classes, and resources.
 
-## Prerequisites
+## Prerequisites ::
 Install below software in your system
 JDK 1.8+
 Maven
