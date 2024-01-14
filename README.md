@@ -4,7 +4,7 @@
 
 This project automates our functional automation.
 
-## Technologies Used :   llllllllll
+## Technologies Used : 
 
 - Selenium
 - Java
