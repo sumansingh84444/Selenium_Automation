@@ -1,6 +1,6 @@
 # Functional Automation Project
 
-## Ove
+## Oveviews
 
 This project automates our functional automation.
 
