@@ -21,7 +21,7 @@ JDK 1.8+
 Maven
 Intellij
 
-## Setup **
+## Setup
 
 1. Clone the repository
    ```bash
