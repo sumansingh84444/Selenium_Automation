@@ -11,7 +11,7 @@ This project automates our functional automation.
 - TestNG
 - Maven
 
-## Project Structure   8574
+## Project Structure
 
 Provide an overview of the project structure, explaining the organization of packages, classes, and resources.
 
