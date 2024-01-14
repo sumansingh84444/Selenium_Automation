@@ -9,7 +9,7 @@ This project automates our functional automation.
 - Selenium
 - Java
 - TestNG
-- Maven
+- Maven.
 
 ## Project Structure:
 
