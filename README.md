@@ -1,27 +1,27 @@
 # Functional Automation Project
 
-## Oveviews               
+## Oveviews:               
 
 This project automates our functional automation.
 
-## Technologies Used : 
+## Technologies Used: 
 
 - Selenium
 - Java
 - TestNG
 - Maven
 
-## Project Structure
+## Project Structure:
 
 Provide an overview of the project structure, explaining the organization of packages, classes, and resources.
 
-## Prerequisites 
+## Prerequisites: 
 Install below software in your system
 JDK 1.8+
 Maven
 Intellij
 
-## Setup
+## Setup:
 
 1. Clone the repository
    ```bash
