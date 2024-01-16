@@ -8,8 +8,8 @@ This project automates our functional automation.
 
 - Selenium
 - Java
-- TestNG
-- Maven
+- TestNG.
+- Maven.
 
 ## Project Structure:
 
